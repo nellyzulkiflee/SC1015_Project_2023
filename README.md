@@ -48,3 +48,26 @@ D. Individual Contributions
 
 
 E. References
+
+Banerjee, P. (2020, March 13). KNN classifier tutorial. Kaggle. Retrieved April 21, 2023, from https://www.kaggle.com/code/prashant111/knn-classifier-tutorial#9.-Declare-feature-vector-and-target-variable- 
+
+FAO, & PAHO. (2016). Panorama of food and nutrition security in Latin America and the Caribbean 2016. Food and Agriculture Organization of the United Nations. https://doi.org/10.4060/ca8535en
+
+Foo, L. H. (2017). Dietary intake and food sources of Singaporean adults. Asia Pacific Journal of Clinical Nutrition, 26(1), 96-103. https://doi.org/10.6133/apjcn.042016.06
+
+HealthHub. (2022, November 15). Obesity in Singapore: It's not a small world. HealthHub. Retrieved April 17, 2023, from https://www.healthhub.sg/live-healthy/764/its-not-a-small-world-after-all 
+
+Health Promotion Board. (2021). National Health Survey 2021. Retrieved April 17, 2023, from https://www.healthhub.sg/live-healthy/647/national-health-survey-2021
+
+Institute of Mental Health. (2016). Study finds obesity linked to depression, anxiety and poor quality of life. Retrieved April 17, 2023, from https://www.imh.com.sg/news/study-finds-obesity-linked-to-depression-anxiety-and-poor-quality-of-life/
+
+Ministry of Health. (2019). Disease Burden in Singapore. Retrieved April 17, 2023, from https://www.moh.gov.sg/resources-statistics/singapore-health-facts/disease-burden-in-singapore
+
+Palechor, F. M., & Manotas, A. de. (2019). Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico. Data in Brief, 25, 104344. https://doi.org/10.1016/j.dib.2019.104344 
+
+Tan, C. E., Ma, S., Wai, D., Chew, S. K., & Tai, E. S. (2004). Can we apply the National Cholesterol Education Program Adult Treatment Panel definition of the metabolic syndrome to Asians? Diabetes Care, 27(5), 1182–1186. doi:10.2337/diacare.27.5.1182
+
+
+
+
+

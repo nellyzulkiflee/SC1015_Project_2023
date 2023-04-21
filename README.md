@@ -49,6 +49,8 @@ D. Individual Contributions
 
 E. References
 
+Bhattacharjee, S. (2019, August 7). How KNN algorithm works, when do we use KNN and how do we choose the factor K in Knn? LinkedIn. Retrieved April 21, 2023, from https://www.linkedin.com/pulse/how-knn-algorithm-works-when-do-we-use-choose-factor-k-bhattacharjee/ 
+
 Banerjee, P. (2020, March 13). KNN classifier tutorial. Kaggle. Retrieved April 21, 2023, from https://www.kaggle.com/code/prashant111/knn-classifier-tutorial#9.-Declare-feature-vector-and-target-variable- 
 
 FAO, & PAHO. (2016). Panorama of food and nutrition security in Latin America and the Caribbean 2016. Food and Agriculture Organization of the United Nations. https://doi.org/10.4060/ca8535en

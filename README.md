@@ -70,6 +70,7 @@ C. Insights and Conclusion from Our Project
 D. Individual Contributions
 
 Nelly: Logistic Regression and Data Cleaning
+
 Wisnu: kNN Classification and Conclusion
 
 

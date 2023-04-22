@@ -11,6 +11,28 @@ We used a dataset published in 2019 that estimates the obesity levels of individ
 B. ML Techniques Used for Our Project
 
 a. Logistic Regression
+Logistic regression is a powerful tool that helps us understand the relationship between a binary outcome and one or more independent variables. It's used to predict the probability of a "yes" or "no" outcome, based on the values of the independent variables. For our project, firstly we implemented Logistic Regression that focuses on Eating Habits only:
+
+Steps taken:
+    1. Extracting the variables related to Eating Habits to a new dataframe
+    
+    2. Changing categorical data into dummies
+    
+    3. Splitting data into Predictor and Response Variables
+    
+    4. Normalise the range of independent variables by Feature Scaling
+    
+    5. Splitting dataset into Train and Test Sets
+    
+    6. Train the Logistic Regression and make preditions on the testing set
+
+    7. Print the confusion matrix and classificatin report
+
+    8. Print the accuracy score
+
+Subsequently, we then implemented Logistic Regression to All variables, by carrying out steps 1-8 using the original dataset. 
+    
+For Eating Habits only, we obtained an accuracy score of 0.46687 while for All variables we obtained an accuracy score of 0.85647.
 
 
 

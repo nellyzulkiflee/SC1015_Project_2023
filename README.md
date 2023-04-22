@@ -1,7 +1,5 @@
 # SC1015_Project_2023 A133_Team 8
 
-#TRY TO KEEP IT A 3-5 MINUTE READ!!!
-
 A. Brief Introduction to Our Project
 
 According to the World Health Organization, global obesity rates have doubled since 1980, leading health professionals to label obesity as a growing epidemic. Despite performing better than the US and European countries, HealthHub reported that Singapore's obesity rate has been on the rise in recent years. 30% of Singaporeans are considered overweight and 10% are categorized as obese.  
@@ -14,6 +12,7 @@ a. Logistic Regression
 Logistic regression is a powerful tool that helps us understand the relationship between a binary outcome and one or more independent variables. It's used to predict the probability of a "yes" or "no" outcome, based on the values of the independent variables. For our project, firstly we implemented Logistic Regression that focuses on Eating Habits only:
 
 Steps taken:
+
     1. Extracting the variables related to Eating Habits to a new dataframe
     
     2. Changing categorical data into dummies
@@ -26,7 +25,7 @@ Steps taken:
     
     6. Train the Logistic Regression and make preditions on the testing set
 
-    7. Print the confusion matrix and classificatin report
+    7. Print the confusion matrix and classification report
 
     8. Print the accuracy score
 
@@ -65,8 +64,13 @@ For Eating Habits only, we obtained an accuracy score of 0.6025 at k = 3 while f
 
 C. Insights and Conclusion from Our Project
 
+- Diet alone is not enough to predict an individual's obesity levels. Obesity is caused by numerous other factors, such as lifestyle and physical conditions, and hence having a healthy diet alone is not sufficient.
+
 
 D. Individual Contributions
+
+Nelly: Logistic Regression and Data Cleaning
+Wisnu: kNN Classification and Conclusion
 
 
 E. References

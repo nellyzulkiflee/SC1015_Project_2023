@@ -72,11 +72,11 @@ C. Insights and Conclusion from Our Project
 
 D. Individual Contributions
 
-Nelly: Logistic Regression and Data Cleaning
+Wisnu: Introduction, kNN Classification, Conclusion
 
-Wisnu: kNN Classification and Conclusion
+Nelly: Logistic Regressions and Data Cleaning
 
-Linh: Exploratory data analysis 
+Linh: Exploratory Data Analysis 
 
 
 E. References

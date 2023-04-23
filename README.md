@@ -61,6 +61,9 @@ Subsequently, we then implemented kNN Classification to All variables, by carryi
     
 For Eating Habits only, we obtained an accuracy score of 0.6025 at k = 3 while for All variables we         obtained an accuracy score of 0.8565 at k = 1.
 
+c. Exploratory data analysis:
+
+
 
 C. Insights and Conclusion from Our Project
 
@@ -72,6 +75,8 @@ D. Individual Contributions
 Nelly: Logistic Regression and Data Cleaning
 
 Wisnu: kNN Classification and Conclusion
+
+Linh: Exploratory data analysis 
 
 
 E. References

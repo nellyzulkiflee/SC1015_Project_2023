@@ -25,7 +25,7 @@ Steps taken:
     
     6. Train the Logistic Regression and make preditions on the testing set
 
-    7. Print the confusion matrix and classification report
+    7. Print the Confusion Matrix and Classification Report
 
     8. Print the accuracy score
 

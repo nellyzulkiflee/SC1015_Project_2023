@@ -6,9 +6,30 @@ According to the World Health Organization, global obesity rates have doubled si
 Therefore, our group has decided to investigate further on the factors that can lead to obesity.
 We used a dataset published in 2019 that estimates the obesity levels of individuals in Mexico, Peru and Colombia with diverse eating habits and physical condition. The dataset comprises of 17 variables, both numerical and categorial, with 2111 records. 
 
-B. ML Techniques Used for Our Project
+B. EDA and ML Techniques Used for Our Project
 
-a. Logistic Regression
+1. Exploratory data analysis:
+Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. It helps determine how best to manipulate data sources to get the answers you need, making it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions. For our project, firstly, we implemented EDA that focuses on Eating Habits only:
+
+Step taken:
+
+    1. Collecting and cleaning the data from the provided CSV file.
+    
+    2. Checking for missing values.
+    
+    3. Separating numerical and categorical variables into two different DataFrames.
+    
+    4. Saving the two DataFrames as separate CSV files for further analysis.
+    
+    5. Visualizing the distribution of each variable using histograms and box plots to check for skewness and outliers.
+    
+    6. Computing descriptive statistics such as mean, median, standard deviation, and correlation coefficients to quantify the relationship between variables.
+    
+    7. Conducting a univariate analysis of each variable to explore the distribution and identify any outliers or extreme values. This can be done using histograms, box plots, and summary statistics.
+    
+    8. Exploring the relationship between the independent variables (diet, lifestyle, and physical condition) and the dependent variable (obesity level) using bivariate analysis techniques such as scatter plots, correlation coefficients, and hypothesis testing.
+
+2. Logistic Regression
 Logistic regression is a powerful tool that helps us understand the relationship between a binary outcome and one or more independent variables. It's used to predict the probability of a "yes" or "no" outcome, based on the values of the independent variables. For our project, firstly we implemented Logistic Regression that focuses on Eating Habits only:
 
 Steps taken:
@@ -35,7 +56,7 @@ For Eating Habits only, we obtained an accuracy score of 0.46687 while for All v
 
 
 
-b. kNN Classification
+3. kNN Classification
 
 k-Nearest Neighbors (kNN) classification is a simple and intuitive machine learning algorithm used to analyse data because it is effective at identifying patterns and making predictions based on those patterns. The algorithm works by finding the k data points in the training dataset that are closest to a given data point in the test dataset, and then classifying the test data point based on the majority class of those k neighbors. For our project, firstly, we implemented kNN Classification that focuses on Eating Habits only:
 
@@ -61,26 +82,7 @@ Subsequently, we then implemented kNN Classification to All variables, by carryi
     
 For Eating Habits only, we obtained an accuracy score of 0.6025 at k = 3 while for All variables we         obtained an accuracy score of 0.8565 at k = 1.
 
-c. Exploratory data analysis:
-Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. It helps determine how best to manipulate data sources to get the answers you need, making it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions. For our project, firstly, we implemented EDA that focuses on Eating Habits only:
 
-Step taken:
-
-    1. Collecting and cleaning the data from the provided CSV file.
-    
-    2. Checking for missing values.
-    
-    3. Separating numerical and categorical variables into two different DataFrames.
-    
-    4. Saving the two DataFrames as separate CSV files for further analysis.
-    
-    5. Visualizing the distribution of each variable using histograms and box plots to check for skewness and outliers.
-    
-    6. Computing descriptive statistics such as mean, median, standard deviation, and correlation coefficients to quantify the relationship between variables.
-    
-    7. Conducting a univariate analysis of each variable to explore the distribution and identify any outliers or extreme values. This can be done using histograms, box plots, and summary statistics.
-    
-    8. Exploring the relationship between the independent variables (diet, lifestyle, and physical condition) and the dependent variable (obesity level) using bivariate analysis techniques such as scatter plots, correlation coefficients, and hypothesis testing.
 
 C. Insights and Conclusion from Our Project
 

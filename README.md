@@ -66,16 +66,20 @@ Exploratory data analysis (EDA) is used by data scientists to analyze and invest
 
 Step taken:
     1. Collecting and cleaning the data from the provided CSV file.
+    
     2. Checking for missing values.
+    
     3. Separating numerical and categorical variables into two different DataFrames.
+    
     4. Saving the two DataFrames as separate CSV files for further analysis.
+    
     5. Visualizing the distribution of each variable using histograms and box plots to check for skewness and outliers.
+    
     6. Computing descriptive statistics such as mean, median, standard deviation, and correlation coefficients to quantify the relationship between variables.
+    
     7. Conducting a univariate analysis of each variable to explore the distribution and identify any outliers or extreme values. This can be done using histograms, box plots, and summary statistics.
+    
     8. Exploring the relationship between the independent variables (diet, lifestyle, and physical condition) and the dependent variable (obesity level) using bivariate analysis techniques such as scatter plots, correlation coefficients, and hypothesis testing.
-
-
-
 
 C. Insights and Conclusion from Our Project
 

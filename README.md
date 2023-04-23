@@ -65,6 +65,7 @@ c. Exploratory data analysis:
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. It helps determine how best to manipulate data sources to get the answers you need, making it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions. For our project, firstly, we implemented EDA that focuses on Eating Habits only:
 
 Step taken:
+
     1. Collecting and cleaning the data from the provided CSV file.
     
     2. Checking for missing values.

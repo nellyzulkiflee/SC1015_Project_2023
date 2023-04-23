@@ -62,6 +62,18 @@ Subsequently, we then implemented kNN Classification to All variables, by carryi
 For Eating Habits only, we obtained an accuracy score of 0.6025 at k = 3 while for All variables we         obtained an accuracy score of 0.8565 at k = 1.
 
 c. Exploratory data analysis:
+Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. It helps determine how best to manipulate data sources to get the answers you need, making it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumptions. For our project, firstly, we implemented EDA that focuses on Eating Habits only:
+
+Step taken:
+    1. Collecting and cleaning the data from the provided CSV file.
+    2. Checking for missing values.
+    3. Separating numerical and categorical variables into two different DataFrames.
+    4. Saving the two DataFrames as separate CSV files for further analysis.
+    5. Visualizing the distribution of each variable using histograms and box plots to check for skewness and outliers.
+    6. Computing descriptive statistics such as mean, median, standard deviation, and correlation coefficients to quantify the relationship between variables.
+    7. Conducting a univariate analysis of each variable to explore the distribution and identify any outliers or extreme values. This can be done using histograms, box plots, and summary statistics.
+    8. Exploring the relationship between the independent variables (diet, lifestyle, and physical condition) and the dependent variable (obesity level) using bivariate analysis techniques such as scatter plots, correlation coefficients, and hypothesis testing.
+
 
 
 
